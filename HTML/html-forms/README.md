@@ -20,3 +20,12 @@ If you want your user to be able to include new lines (by pressing return) in th
 
 Notice how <textarea> elements have a closing tag. You can also specify the size of <textarea> by using the rows and cols attributes.
 
+## Buttons 
+
+A <button> element should be used whenever you want to create a clickable button to perform some action on the page.
+
+**button** elements are simple to define, and have three different type values:
+ - submit: submits form data to a server
+ - reset: resets all the data in the current form
+ - button: no default behavior. This type of button will be more useful when we begin our discussion of Javascript.
+
