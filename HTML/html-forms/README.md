@@ -22,7 +22,7 @@ Notice how <textarea> elements have a closing tag. You can also specify the size
 
 ## Buttons 
 
-A <button> element should be used whenever you want to create a clickable button to perform some action on the page.
+A ```html <button>``` element should be used whenever you want to create a clickable button to perform some action on the page.
 
 **button** elements are simple to define, and have three different type values:
  - submit: submits form data to a server
