@@ -47,3 +47,16 @@ Including the selected attribute in an <option> element will show that option by
 
 Additionally, if you want to group options into different categories, you can nest <option> elements in an <optgroup> element:
   
+         <select id="selector">
+         <optgroup label="Group 1">
+           <option>Option 1</option>
+           <option>Option 2</option>
+         </optgroup>
+         <optgroup label="Group 2">
+           <option>Option 3</option>
+           <option>Option 4</option>
+         </optgroup>
+         <optgroup label="Group 3">
+           <option>Option 5</option>
+           <option>Option 6</option>
+         </optgroup>
