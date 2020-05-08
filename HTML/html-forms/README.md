@@ -12,11 +12,11 @@ We’ve seen how the **input** element can accept text values. There are several
    
 In the case of url and email, the browser will check to see if the input is a valid URL or email address.
 
-## Textarea 
+## <textarea> 
 
 If you want your user to be able to include new lines (by pressing return) in their text input, you can use a <textarea> element:
 
      <textarea id="multiLineInput"></textarea>
 
-
+Notice how <textarea> elements have a closing tag. You can also specify the size of <textarea> by using the rows and cols attributes.
 
