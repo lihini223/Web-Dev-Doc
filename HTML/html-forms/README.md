@@ -30,3 +30,16 @@ A ```<button>``` element should be used whenever you want to create a clickable 
  - ```button```: no default behavior. This type of button will be more useful when we begin our discussion of Javascript.
 
            <button type="submit">Submit Name</button>
+
+```<select> ```
+
+You can use ```<select>``` (with nested <option>) elements to create a drop-down selection of items that a user can choose from:
+
+       <p>A <code>select</code> element allows users to input from a selection:</p>
+       <select id="selector">
+         <option>Option 1</option>
+         <option>Option 2</option>
+         <option selected>Option 3</option>
+         <option>Option 4</option>
+       </select>
+  
