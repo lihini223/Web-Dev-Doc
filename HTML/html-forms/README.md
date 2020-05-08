@@ -16,5 +16,7 @@ In the case of url and email, the browser will check to see if the input is a va
 
 If you want your user to be able to include new lines (by pressing return) in their text input, you can use a <textarea> element:
 
+     <textarea id="multiLineInput"></textarea>
+
 
 
