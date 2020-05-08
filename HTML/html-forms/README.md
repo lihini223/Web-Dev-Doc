@@ -29,3 +29,4 @@ A ```<button>``` element should be used whenever you want to create a clickable 
  - ```reset```: resets all the data in the current form
  - ```button```: no default behavior. This type of button will be more useful when we begin our discussion of Javascript.
 
+           <button type="submit">Submit Name</button>
