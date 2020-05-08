@@ -42,4 +42,8 @@ You can use ```<select>``` (with nested <option>) elements to create a drop-down
          <option selected>Option 3</option>
          <option>Option 4</option>
        </select>
+       
+Including the selected attribute in an <option> element will show that option by default.
+
+Additionally, if you want to group options into different categories, you can nest <option> elements in an <optgroup> element:
   
