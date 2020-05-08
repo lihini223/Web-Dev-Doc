@@ -1,5 +1,5 @@
 # HTML Forms 
-
+For more resources on HTML Forms, visit [W3Schools](https://www.w3schools.com/html/html_forms.asp).
 ## Text inputs 
 We’ve seen how the ```<input>``` element can accept text values. There are several different type values that can be used, including:
 
