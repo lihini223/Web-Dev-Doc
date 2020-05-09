@@ -60,3 +60,20 @@ Additionally, if you want to group options into different categories, you can ne
            <option>Option 5</option>
            <option>Option 6</option>
          </optgroup>
+
+## Selection inputs 
+```<select> ```
+
+You can use <select> (with nested <option>) elements to create a drop-down selection of items that a user can choose from:
+      
+     <form>
+     <label for="selector">
+       <p>A <code>select</code> element allows users to input from a selection:</p>
+       <select id="selector">
+         <option>Option 1</option>
+         <option>Option 2</option>
+         <option selected>Option 3</option>
+         <option>Option 4</option>
+       </select>
+     </label>
+   </form>
