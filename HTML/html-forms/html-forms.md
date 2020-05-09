@@ -32,7 +32,6 @@ A ```<button>``` element should be used whenever you want to create a clickable 
            <button type="submit">Submit Name</button>
 
 ```<select> ```
-You can use <select> (with nested <option>) elements to create a drop-down selection of items that a user can choose from:<br/>
 
 You can use ```<select>``` (with nested <option>) elements to create a drop-down selection of items that a user can choose from:
 
