@@ -10,3 +10,4 @@ Create a page named aboutme.html that describes you. On your page, include some 
 - Two images, one that represents you when you're happy and the other to represent you when you're sad.(These can be any images you like. Consider searching for images on Google Image Search)
 - Something interesting about one or more of your neighbors(people sitting at computers next to you)
 ```
+![image of output]()
