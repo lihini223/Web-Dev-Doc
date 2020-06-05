@@ -2,3 +2,4 @@
 
 - CSS Grid
 - CSS Animation
+- Battery Charging Animation
