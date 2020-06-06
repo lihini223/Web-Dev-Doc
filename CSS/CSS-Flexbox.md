@@ -5,3 +5,6 @@
 
 **//Use the flex-direction Property to Make a Row**<br/>
 ```flex-direction:row; ```
+
+**//Use the flex-direction Property to Make a Column**
+```flex-direction:column;
