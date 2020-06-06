@@ -66,4 +66,6 @@
 **//Create Flexible Layouts Using auto-fill**
 ```repeat(auto-fill, minmax(min, max));```
 
+**//Create Flexible Layouts Using auto-fit**
+```grid-template-columns: repeat(auto-fit, minmax(min, max));```
 
