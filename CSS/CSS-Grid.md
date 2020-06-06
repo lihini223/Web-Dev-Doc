@@ -1,6 +1,6 @@
 # CSS Grid
 
-**//Displays Grid **
+**//Displays Grid**<br/>
 ```display:grid;``` 
 
 **//Display columns <br/>**
@@ -54,5 +54,5 @@
 ```grid-area: referencing name;``` [header,content,footer]<br/>
 
 **//Use grid-area Without Creating an Areas Template**<br/>
-```grid-area: horizontal line to start at / vertical line to start at / horizontal line to end at / vertical line to end at;
-```
+```grid-area: horizontal line to start at / vertical line to start at / horizontal line to end at / vertical line to end at;```
+
