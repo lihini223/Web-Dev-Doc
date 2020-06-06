@@ -26,3 +26,6 @@
 
 **//Use the flex-basis Property to Set the Initial Size of an ItemPassed**<br/>
 ```flex-basis: ;```<br/>
+
+**//Use the flex Shorthand Property**<br/>
+```flex: flex-grow, flex-shrink, flex-basis; ``` <br/>
