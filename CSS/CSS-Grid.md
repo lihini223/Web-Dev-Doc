@@ -63,9 +63,9 @@
 **//Limit Item Size Using the minmax Function**<br/>
 ```grid-template-columns: repeat(no.of cols, minmax(min-size,max-size));```<br/>
 
-**//Create Flexible Layouts Using auto-fill**
-```repeat(auto-fill, minmax(min, max));```
+**//Create Flexible Layouts Using auto-fill**<br/>
+```repeat(auto-fill, minmax(min, max));```<br/>
 
-**//Create Flexible Layouts Using auto-fit**
-```grid-template-columns: repeat(auto-fit, minmax(min, max));```
+**//Create Flexible Layouts Using auto-fit**<br/>
+```grid-template-columns: repeat(auto-fit, minmax(min, max));```<br/>
 
