@@ -69,3 +69,14 @@
 **//Create Flexible Layouts Using auto-fit**<br/>
 ```grid-template-columns: repeat(auto-fit, minmax(min, max));```<br/>
 
+**//Use Media Queries to Create Responsive Layouts**
+```
+@media (min-width: value){
+    .container{
+      grid-template-areas:
+        "header header"
+        "advert content"
+        "footer footer";
+    }
+  }
+```
