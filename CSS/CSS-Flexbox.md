@@ -20,3 +20,6 @@
 
 **//Use the flex-shrink Property to Shrink ItemsPassed**<br/>
 ```flex-shrink: ;``` <br/>
+
+**//Use the flex-grow Property to Expand Items**<br/>
+```flex-shrink: ; ```<br/>
