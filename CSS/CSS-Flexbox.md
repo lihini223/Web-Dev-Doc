@@ -28,4 +28,7 @@
 ```flex-basis: ;```<br/>
 
 **//Use the flex Shorthand Property**<br/>
-```flex: flex-grow, flex-shrink, flex-basis; ``` <br/>
+```flex: flex-grow flex-shrink flex-basis; ``` <br/>
+
+**//Use the order Property to Rearrange Items**<br/>
+```order: ; ``<br/>
