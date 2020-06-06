@@ -56,3 +56,6 @@
 **//Use grid-area Without Creating an Areas Template**<br/>
 ```grid-area: horizontal line to start at / vertical line to start at / horizontal line to end at / vertical line to end at;```
 
+**//Reduce Repetition Using the repeat Function**<br/>
+```grid-template-rows: repeat(no.of rows, size);```<br/>
+```grid-template-columns: repeat(no.of cols, size);```<br/>
