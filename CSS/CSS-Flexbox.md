@@ -17,3 +17,6 @@
 
 **//Use the flex-wrap Property to Wrap a Row or Column**<br/>
 ``` flex-wrap: ;``` [nowrap, wrap, wrap-reverse]<br/>
+
+**//Use the flex-shrink Property to Shrink ItemsPassed**<br/>
+```flex-shrink: ;``` <br/>
