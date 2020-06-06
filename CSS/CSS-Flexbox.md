@@ -11,3 +11,6 @@
 
 **//Align Elements Using the justify-content Property**<br/>
 ```justify-content: ;``` [center, flex-start, flex-end, space-between, space-around, space-evenly]<br/>
+
+**//Align Elements Using the align-items Property**<br/>
+```align-items: ; ``` [center, flex-start, flex-end, stretch, baseline]<br/>
