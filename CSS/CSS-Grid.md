@@ -60,5 +60,5 @@
 ```grid-template-rows: repeat(no.of rows, size);```<br/>
 ```grid-template-columns: repeat(no.of cols, size);```<br/>
 
-**//Limit Item Size Using the minmax Function**
-```grid-template-columns: repeat(no.of cols, minmax(min-size,max-size));```
+**//Limit Item Size Using the minmax Function**<br/>
+```grid-template-columns: repeat(no.of cols, minmax(min-size,max-size));```<br/>
