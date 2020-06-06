@@ -31,4 +31,7 @@
 ```flex: flex-grow flex-shrink flex-basis; ``` <br/>
 
 **//Use the order Property to Rearrange Items**<br/>
-```order: ; ``<br/>
+```order: ; ```<br/>
+
+**//Use the align-self Property**<br/>
+```align-self: ;``` [center, flex-start, flex-end, stretch, baseline]<br/>
