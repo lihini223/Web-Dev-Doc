@@ -14,3 +14,6 @@
 
 **//Align Elements Using the align-items Property**<br/>
 ```align-items: ; ``` [center, flex-start, flex-end, stretch, baseline]<br/>
+
+**//Use the flex-wrap Property to Wrap a Row or Column**<br/>
+``` flex-wrap: ;``` [nowrap, wrap, wrap-reverse]<br/>
