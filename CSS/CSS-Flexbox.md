@@ -23,3 +23,6 @@
 
 **//Use the flex-grow Property to Expand Items**<br/>
 ```flex-shrink: ; ```<br/>
+
+**//Use the flex-basis Property to Set the Initial Size of an ItemPassed**<br/>
+```flex-basis: ;```<br/>
