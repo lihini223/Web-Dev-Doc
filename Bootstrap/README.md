@@ -4,6 +4,10 @@
 ```
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
 ```
--Make Images Mobile Responsive :
-All you have to do is add ```class="img-responsive"``` to your image tage. look at the example below.
-<img src="https://bit.ly/fcc-running-cats" class="img-responsive">
+-Make Images Mobile Responsive :<br/>
+All you have to do is add ```class="img-responsive"``` to your image tage. look at the example below.<br/>
+```<img src="https://bit.ly/fcc-running-cats" class="img-responsive">```
+
+-Center Text with Bootstrap<br/>
+All you need to do is add the ```class="text-center"``` to your code.<br/>
+ex:- ```<h2 class="text-center">your text</h2>```
