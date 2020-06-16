@@ -15,3 +15,8 @@ ex:- ```<h2 class="text-center">your text</h2>```
 ## Create a Bootstrap Button<br/>
 All you have to do is add ```class="btn btn-default"``` to your button element. <br/>
 ```<button type="button" class="btn btn-default">Like</button>```
+
+## Create a Block Element Bootstrap Button<br/>
+By making them block elements with the additional class of btn-block, your button will stretch to fill your page's entire horizontal space and any elements following it will flow onto a "new line" below the block.<br/>
+```<button class="btn btn-default btn-block">Submit</button>```<br/>
+This button would take up 100% of the available width.
