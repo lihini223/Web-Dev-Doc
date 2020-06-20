@@ -28,3 +28,4 @@ A lightweight, flexible component that can optionally extend the entire viewport
 ## Containers
 Bootstrap 4 also requires a containing element to wrap site contents.<br/>
 ```.container``` class provides a responsive fixed width container.<br/>
+```.container-fluid``` class provides a full width container, spanning the entire width of the viewport.
