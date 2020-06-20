@@ -24,3 +24,7 @@ This button would take up 100% of the available width.
 ## To showcase hero unit style component
 A lightweight, flexible component that can optionally extend the entire viewport to showcase key marketing messages on your site.
 ```class="jumbotron"```
+
+## Containers
+Bootstrap 4 also requires a containing element to wrap site contents.<br/>
+```.container``` class provides a responsive fixed width container.<br/>
