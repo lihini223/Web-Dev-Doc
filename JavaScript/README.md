@@ -25,3 +25,4 @@
 ### Javascript can hide html elements.
    Ex:-```document.getElementById("idname").style.display = "none";```
 ### JavaScript Can Show HTML Elements.
+   Ex:- ```document.getElementById("demo").style.display = "block";```
