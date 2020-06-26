@@ -21,5 +21,6 @@
 
 ### Javascipt can change attribute values.
 ### Javascript can change html styles.
+   Ex:-     ```document.getElementById("idname").style.fontSize = "35px";```
 ### Javascript can hide html elements.
 ### JavaScript Can Show HTML Elements.
