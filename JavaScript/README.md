@@ -17,4 +17,4 @@
  
  This javascript line will replace the h1 tag content with id heading into Hello Javascript.<br/>
  Javascript accepts both Double Quotations ```"..."``` and ```'...'``` <br/>
- Ex:- ```document.getElementById('demo').innerHTML = 'Hello JavaScript';```
+ Ex:- ```document.getElementById('heading').innerHTML = 'Hello JavaScript';```
