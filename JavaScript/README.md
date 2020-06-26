@@ -20,6 +20,12 @@
  Ex:- ```document.getElementById('heading').innerHTML = 'Hello JavaScript';```
 
 ### Javascipt can change attribute values.
+  Ex:-  
+  ```
+  <button onclick="document.getElementById('myImage').src='image.jpg'">change the image</button>
+  <img id="myImage" src="pic.jpg" style="width:100px">
+  ```
+  Here in this example, the image with myImage id will be change into image.jpg when that particular button is clicked.
 ### Javascript can change html styles.
    Ex:-     ```document.getElementById("idname").style.fontSize = "35px";```
 ### Javascript can hide html elements.
