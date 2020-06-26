@@ -9,9 +9,10 @@
     <h1 id="heading">Hello World!</h1>
     
     <script>
-        document.getElementById("demo").innerHTML = "Hello JavaScript";
+        document.getElementById("heading").innerHTML = "Hello JavaScript";
     </script>
   </body>
   </html>
  ``` 
-  
+ 
+ This javascript line will replace the h1 tag content with id heading into Hello Javascript.
