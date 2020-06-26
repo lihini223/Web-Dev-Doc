@@ -18,3 +18,8 @@
  This javascript line will replace the h1 tag content with id heading into Hello Javascript.<br/>
  Javascript accepts both Double Quotations ```"..."``` and ```'...'``` <br/>
  Ex:- ```document.getElementById('heading').innerHTML = 'Hello JavaScript';```
+
+### Javascipt can change attribute values.
+### Javascript can change html styles.
+### Javascript can hide html elements.
+### JavaScript Can Show HTML Elements.
