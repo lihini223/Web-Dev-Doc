@@ -23,4 +23,5 @@
 ### Javascript can change html styles.
    Ex:-     ```document.getElementById("idname").style.fontSize = "35px";```
 ### Javascript can hide html elements.
+   Ex:-```document.getElementById("idname").style.display = "none";```
 ### JavaScript Can Show HTML Elements.
