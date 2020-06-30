@@ -41,3 +41,22 @@
  
 ## JavaScript built in objects
  - String object
+
+## How to create a javascript event listener
+Sample code :
+```
+<html>
+ <head>
+   <title>Creating your own event listener</title>
+ </head>
+ <body>
+   <h1>Click me to see a message!</h1>
+ </body>
+</html>
+```
+```
+var button = document.querySelector('h1');
+button.onclick = function(){
+    alert("Hello World!");
+}
+```
