@@ -70,6 +70,7 @@ console.log(sentence);
 ```
 Output:<br/>
 ```"Javascript strings are useful for storing text."```<br/>
+
 There are a few different characters that we must escape in order for the program to interpret a string in the correct way. These include:<br/>
 
 ```a single quote - \'```<br/>
@@ -78,5 +79,5 @@ There are a few different characters that we must escape in order for the progra
 
 Escaped characters can also be used to add tabs or go to the next line in your strings, with the following:<br/>
 
-```a new line - \n```
-```a tab - \t```
+```a new line - \n```<br/>
+```a tab - \t```<br/>
