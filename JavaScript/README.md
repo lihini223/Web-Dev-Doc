@@ -112,3 +112,4 @@ console.log(classSize);
 ## Adding / removing items #
 - Use the ```Array.push()``` method to add items to the end of an array.
 - Use ```Array.pop()``` to remove the last item in the array. The ```Array.pop()``` method returns the removed item.
+- Use ```Array.shift()``` to remove the first item in the array. ```Array.shift()``` returns the value that was removed as well.
