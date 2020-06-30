@@ -32,3 +32,10 @@
    Ex:-```document.getElementById("idname").style.display = "none";```
 ### JavaScript Can Show HTML Elements.
    Ex:- ```document.getElementById("demo").style.display = "block";```
+
+
+## Javascript PopUp Boxes
+ - Alert
+ - Confirm
+ - Prompt 
+ 
