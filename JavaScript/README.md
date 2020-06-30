@@ -97,8 +97,15 @@ Javascript strings are useful for storing text.
 
 ## Manipulating Arrays
 ### Converting to a string
-The Array.toString() method will take an array and convert it into a string, with items separated by commas.
+The ```Array.toString()``` method will take an array and convert it into a string, with items separated by commas.
 ```
 var studentString = students.toString();
 console.log(studentString);
+```
+
+### Array Size
+```Array.length``` will return the number of items currently in the array. Take notice that we do not use the parentheses operator as length is an array property, not a function.
+```
+var classSize = students.length;
+console.log(classSize);
 ```
