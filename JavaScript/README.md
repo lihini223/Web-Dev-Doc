@@ -39,3 +39,5 @@
  - Confirm
  - Prompt 
  
+## JavaScript built in objects
+ - String object
