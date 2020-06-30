@@ -109,3 +109,6 @@ console.log(studentString);
 var classSize = students.length;
 console.log(classSize);
 ```
+## Adding / removing items #
+- Use the ```Array.push()``` method to add items to the end of an array.
+- Use ```Array.pop()``` to remove the last item in the array. The ```Array.pop()``` method returns the removed item.
