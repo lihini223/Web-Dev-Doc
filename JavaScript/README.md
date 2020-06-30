@@ -94,3 +94,11 @@ Output:
 Javascript strings are useful for storing text.
 	Javascript strings are also useful for manipulating text.
 ```
+
+## Manipulating Arrays
+### Converting to a string
+The Array.toString() method will take an array and convert it into a string, with items separated by commas.
+```
+var studentString = students.toString();
+console.log(studentString);
+```
