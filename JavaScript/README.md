@@ -69,4 +69,14 @@ var sentence = "\"Javascript strings are useful for storing text.\"";
 console.log(sentence);
 ```
 Output:<br/>
-```"Javascript strings are useful for storing text."```
+```"Javascript strings are useful for storing text."```<br/>
+There are a few different characters that we must escape in order for the program to interpret a string in the correct way. These include:<br/>
+
+```a single quote - \'```<br/>
+```a double quote - \"```<br/>
+```a backslash - \\```<br/>
+
+Escaped characters can also be used to add tabs or go to the next line in your strings, with the following:<br/>
+
+```a new line - \n```
+```a tab - \t```
