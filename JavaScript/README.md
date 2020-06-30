@@ -68,3 +68,5 @@ In order to indicate the ```"``` as a quotation mark, we have to escape the char
 var sentence = "\"Javascript strings are useful for storing text.\"";
 console.log(sentence);
 ```
+Output:<br/>
+```"Javascript strings are useful for storing text."```
