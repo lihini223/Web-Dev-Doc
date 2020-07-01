@@ -114,3 +114,8 @@ console.log(classSize);
 - Use ```Array.pop()``` to remove the last item in the array. The ```Array.pop()``` method returns the removed item.
 - Use ```Array.shift()``` to remove the first item in the array. ```Array.shift()``` returns the value that was removed as well.
 - ```Array.unshift()``` adds an item to the beginning of an array. ```Array.unshift()``` returns the new size of the array.
+
+
+## Accessing DOM elements 
+- ```document.querySelector("element ID")```<br/>
+This function will return the first element it finds with the selector provided. If no element is found using that particular selector, the function will return as null.
