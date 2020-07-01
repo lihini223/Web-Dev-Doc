@@ -119,3 +119,19 @@ console.log(classSize);
 ## Accessing DOM elements 
 - ```document.getElementById(id)```<br/> 
 If an element has an id attribute, we can access it by using the ```document.getElementById()``` function:
+Ex:-
+```
+<html>
+ <head>
+   <title>Accessing an Element Node using ID's</title>
+ </head>
+ <body>
+   <h1 id="mainHeading">Learn DOM Manipulation with Javascript</h1>
+ </body>
+</html>
+```
+```
+var mainHeading = document.getElementById('mainHeading');
+
+mainHeading.innerHTML = "Access an element with an id attribute using <code>document.getElementById()</code>";
+```
