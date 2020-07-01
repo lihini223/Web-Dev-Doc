@@ -42,7 +42,7 @@
 ## JavaScript built in objects
  - String object
 
-## How to create a javascript event listener
+## How to create a javascript event listeners
 Sample code :
 ```
 <html>
@@ -118,7 +118,7 @@ console.log(classSize);
 
 ## Accessing DOM elements 
 - ```document.getElementById(id)```<br/> 
-If an element has an id attribute, we can access it by using the ```document.getElementById()``` function:
+If an element has an id attribute, we can access it by using the ```document.getElementById()``` function:<br/>
 Ex:-
 ```
 <html>
@@ -135,3 +135,10 @@ var mainHeading = document.getElementById('mainHeading');
 
 mainHeading.innerHTML = "Access an element with an id attribute using <code>document.getElementById()</code>";
 ```
+
+- ```document.createElement(element)```
+- ```Element.appendChild(element_node)```
+- ```Element.removeChild(element_node)```
+- ```Element.getAttributeNames()```
+- ```Element.getAttribute(name)```
+- ```Element.setAttribute(name, value) + Element.removeAttribute(name)```
