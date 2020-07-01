@@ -117,5 +117,5 @@ console.log(classSize);
 
 
 ## Accessing DOM elements 
-- ```document.querySelector("element ID")```<br/>
-This function will return the first element it finds with the selector provided. If no element is found using that particular selector, the function will return as null.
+- ```document.getElementById(id)```<br/> 
+If an element has an id attribute, we can access it by using the ```document.getElementById()``` function:
