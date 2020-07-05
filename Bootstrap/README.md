@@ -21,6 +21,9 @@ By making them block elements with the additional class of btn-block, your butto
 ```<button class="btn btn-default btn-block">Submit</button>```<br/>
 This button would take up 100% of the available width.
 
+## Call out Optional Actions with btn-info
+
+
 ## To showcase hero unit style component
 A lightweight, flexible component that can optionally extend the entire viewport to showcase key marketing messages on your site.
 ```class="jumbotron"```
