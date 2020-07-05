@@ -22,7 +22,8 @@ By making them block elements with the additional class of btn-block, your butto
 This button would take up 100% of the available width.
 
 ## Call out Optional Actions with btn-info
-
+ The btn-info class is used to call attention to optional actions that the user can take.
+ ```   <button class="btn btn-block btn-primary btn-info">Info</button> ```
 
 ## To showcase hero unit style component
 A lightweight, flexible component that can optionally extend the entire viewport to showcase key marketing messages on your site.
