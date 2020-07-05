@@ -41,3 +41,9 @@ Bootstrap 4 also requires a containing element to wrap site contents.<br/>
 ```.pt-3``` means "add a top padding of 16px to the container.
  
  ```my-3``` add margin-top
+
+## Add Font Awesome Icons to our Buttons
+You can include Font Awesome in any app by adding the following code to the top of your HTML:<br/>
+```
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+```
