@@ -21,6 +21,8 @@
     //  $Email = $_POST['email'];
     //  $phone_number = $_POST['phone'];
 
+    $sql = "INSERT INTO student(firstname,lastname,username,password,gender,year)
+            VALUES('$firstname','$lastname','$username','$password','$gender','$year');";
 
 
 ?>
