@@ -23,6 +23,9 @@
 
     $sql = "INSERT INTO student(firstname,lastname,username,password,gender,year)
             VALUES('$firstname','$lastname','$username','$password','$gender','$year');";
-
+    
+    if(mysqli_query($conn,$sql) == TRUE){
+        echo("Record added successfully!");
+    }
 
 ?>
