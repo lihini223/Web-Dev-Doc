@@ -27,5 +27,10 @@
     if(mysqli_query($conn,$sql) == TRUE){
         echo("Record added successfully!");
     }
+    else{
+        echo("Error! While inserting values");
+    }
 
+}
+  
 ?>
