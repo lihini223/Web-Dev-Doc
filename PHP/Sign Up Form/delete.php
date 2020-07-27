@@ -12,5 +12,11 @@
         //echo("Connection Failure!");
         die("Connection Failed".mysqli_connect_error());
     }
+    else{
+        $delete = $_POST['del'];
+        $deletequery = "DELETE FROM student WHERE firstname = '$delete';";
+
+
+    }
 
 ?>
