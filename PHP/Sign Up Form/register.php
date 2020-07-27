@@ -17,6 +17,7 @@
         $username = $_POST['uname'];
         $password = $_POST['pword'];
         $gender = $_POST['gender'];
+        $year = $_POST['academic_yr'];
 
 
 
