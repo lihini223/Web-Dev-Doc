@@ -15,6 +15,12 @@
         $sql = "SELECT * FROM student;";
         $result = mysqli_query($conn,$sql);
 
+        while($row = mysqli_fetch_array($result)){
+            echo $row['firstname'];
+            echo "<br/>";
+            echo $row['lastname'];
+            echo "<br/>";
+        }
     }
 
 ?>
