@@ -17,7 +17,12 @@
         $deletequery = "DELETE FROM student WHERE firstname = '$delete';";
         $_result = mysqli_query($conn,$deletequery);
 
-
+        if($_result == TRUE){
+            echo("Record Deleted Successfully!");
+        }
+        else{
+            echo("Deletion Failed!");
+        }
 
     }
 
