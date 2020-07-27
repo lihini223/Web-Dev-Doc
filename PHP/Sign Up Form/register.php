@@ -15,7 +15,7 @@
         $firstname = $_POST['fname'];
         $lastname = $_POST['lname'];
         $username = $_POST['uname'];
-
+        $password = $_POST['pword'];
 
 
 
