@@ -11,5 +11,10 @@
         //echo("Connection Failure!");
         die("Connection Failed".mysqli_connect_error());
     }
+    else{
+        $sql = "SELECT * FROM student;";
+        $result = mysqli_query($conn,$sql);
+
+    }
 
 ?>
