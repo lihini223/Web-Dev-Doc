@@ -11,6 +11,8 @@
         //echo("Connection Failure!");
         die("Connection Failed".mysqli_connect_error());
     }
+    else{
+        $firstname = $_POST['fname'];
 
 
 
