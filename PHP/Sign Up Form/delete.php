@@ -15,6 +15,8 @@
     else{
         $delete = $_POST['del'];
         $deletequery = "DELETE FROM student WHERE firstname = '$delete';";
+        $_result = mysqli_query($conn,$deletequery);
+
 
 
     }
