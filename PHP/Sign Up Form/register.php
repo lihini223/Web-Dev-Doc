@@ -16,6 +16,8 @@
         $lastname = $_POST['lname'];
         $username = $_POST['uname'];
         $password = $_POST['pword'];
+        $gender = $_POST['gender'];
+
 
 
 
