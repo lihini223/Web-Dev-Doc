@@ -13,6 +13,7 @@
     }
     else{
         $firstname = $_POST['fname'];
+        $lastname = $_POST['lname'];
 
 
 
