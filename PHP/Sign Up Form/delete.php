@@ -1,1 +1,5 @@
+<?php
+    //connection
+    $servername = "localhost";
 
+?>
