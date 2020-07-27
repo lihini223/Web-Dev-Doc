@@ -18,7 +18,8 @@
         $password = $_POST['pword'];
         $gender = $_POST['gender'];
         $year = $_POST['academic_yr'];
-
+    //  $Email = $_POST['email'];
+    //  $phone_number = $_POST['phone'];
 
 
 
