@@ -142,3 +142,24 @@ mainHeading.innerHTML = "Access an element with an id attribute using <code>docu
 - ```Element.getAttributeNames()```
 - ```Element.getAttribute(name)```
 - ```Element.setAttribute(name, value) + Element.removeAttribute(name)```
+
+# Javascript Array Functions
+### Converting Arrays to strings
+```
+var fruits = ["Banana", "Orange", "Apple", "Mango"];
+document.getElementById("demo").innerHTML = fruits.toString();
+```
+**Output**
+```
+Banana,Orange,Apple,Mango
+```
+### Join()
+converts all array elements into a string
+```
+var fruits = ["Banana", "Orange", "Apple", "Mango"];
+document.getElementById("demo").innerHTML = fruits.join(" * ");
+```
+**Output**
+```
+Banana * Orange * Apple * Mango
+```
